@@ -209,6 +209,9 @@ ol {
   height: 56px;
   border: none;
   border: 4px;
+  box-shadow: 0px 4px 4px #00000026;
+  transition-property: box-shadow;
+  transition-duration: 250ms;
 }
 .hero-btn:hover,
 .hero-btn:focus {
