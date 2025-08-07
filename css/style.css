@@ -119,6 +119,8 @@ ol {
   letter-spacing: 0.03em;
   color: var(--logo-color-web);
   margin-right: 76px;
+  position: relative;
+  color: #404bbf;
 }
 
 .header-logo-tex {
