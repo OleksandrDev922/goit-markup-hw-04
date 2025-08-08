@@ -422,8 +422,6 @@ ol {
   flex-direction: column;
   align-items: start;
   justify-content: center;
-  align-items: baseline;
-  margin-right: 120px;
 }
 .soc-media {
   font-size: 16px;
@@ -432,6 +430,8 @@ ol {
   font-weight: 500;
   color: #ffffff;
   margin-bottom: 16px;
+  align-items: baseline;
+  margin-right: 120px;
 }
 .social-link-fut {
   background-color: #31d0aa;
