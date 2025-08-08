@@ -432,25 +432,21 @@ ol {
   font-weight: 500;
   color: #ffffff;
   margin-bottom: 16px;
+  
 }
 .social-list {
-  width: 100%;
-  height: 100%;
-
-  border-radius: 50%;
+  
   display: flex;
-  align-items: center;
-  justify-content: center;
+  
 }
-.social-link-fut {
+  
+.social-link-fut { 
   background-color: #4d5ae5;
   width: 40px;
   height: 40px;
   gap: 16px;
   border-radius: 50px;
-  display: flex;
-
-  align-items: center;
+  
   justify-content: center;
   border-radius: 50%;
 }
@@ -474,4 +470,5 @@ ol {
   color: var(--btn-active-color-text);
 
   background-color: #31d0aa;
+  background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1); Q
 }
