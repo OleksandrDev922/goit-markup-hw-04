@@ -456,8 +456,8 @@ ol {
   align-items: center;
   justify-content: center;
 }
-.social-link:hover,
-.social-link:focus {
+.social-link-fot:hover,
+.social-link-fot:focus {
   background-color: #31d0aa;
 }
 .menu-btn {
