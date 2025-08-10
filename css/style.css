@@ -450,6 +450,7 @@ ol {
   justify-content: center;
   align-items: baseline;
   margin-right: 120px;
+  align-items: baseline;
 }
 .soc-media {
   font-size: 16px;
@@ -482,9 +483,7 @@ ol {
   align-items: center;
   justify-content: center;
 }
-.footer-div {
-  align-items: baseline;
-}
+
 .social-link-fot:hover,
 .social-link-fot:focus {
   background-color: #31d0aa;
