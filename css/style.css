@@ -108,8 +108,9 @@ ol {
 .header-nav {
   display: flex;
   gap: 76px;
-
+  position: relative;
   align-items: center;
+  color: #404bbf;
 }
 
 .header-logo {
