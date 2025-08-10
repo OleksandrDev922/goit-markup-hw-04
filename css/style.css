@@ -234,17 +234,15 @@ ol {
 }
 .advantages {
   padding: 120px 0;
+}
+.container-my {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 112px;
+  margin: 156px 120px;
 }
-.container-van {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-}
+
 .icons-item {
   background-color: #f4f4fd;
   width: 264px;
