@@ -482,6 +482,9 @@ ol {
   align-items: center;
   justify-content: center;
 }
+.footer-div {
+  align-items: baseline;
+}
 .social-link-fot:hover,
 .social-link-fot:focus {
   background-color: #31d0aa;
