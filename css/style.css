@@ -91,8 +91,6 @@ ol {
   padding: 0 15px 0 15px;
 }
 .header {
-  /* width: 1440px;
-  height: 72px; */
   padding: 24px 156px;
   border-bottom: 1px solid #e7e9fc;
   box-shadow: 0px 2px 1px rgba(46, 47, 66, 0.08),
@@ -235,13 +233,6 @@ ol {
 .advantages {
   padding: 120px 0;
 }
-.container-my {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  height: 112px;
-  margin: 156px 120px;
-}
 
 .icons-item {
   background-color: #f4f4fd;
@@ -249,6 +240,10 @@ ol {
   border-radius: 4px;
   border: 1px solid #8e8f99;
   margin-bottom: 8px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
 }
 .advantages-svg {
   padding: 24px 100px;
