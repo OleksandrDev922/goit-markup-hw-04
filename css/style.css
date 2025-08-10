@@ -234,8 +234,12 @@ ol {
 }
 .advantages {
   padding: 120px 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
 }
-.container-advantages {
+.container-van {
   display: flex;
   align-items: center;
   justify-content: center;
