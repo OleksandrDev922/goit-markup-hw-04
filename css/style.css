@@ -170,8 +170,11 @@ ol {
   display: flex;
   align-items: center;
   gap: 40px;
+}
+.header-contact-link {
   transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
+
 .header-contact-link:hover,
 .header-contact-link:focus {
   color: var(--a-active-color);
