@@ -235,6 +235,12 @@ ol {
 .advantages {
   padding: 120px 0;
 }
+.container-advantages {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+}
 .icons-item {
   background-color: #f4f4fd;
   width: 264px;
