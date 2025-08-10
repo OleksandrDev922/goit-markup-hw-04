@@ -127,14 +127,23 @@ ol {
   color: var(--text-color);
   font-weight: 700;
 }
-.header-menu {
+.header-menu-list {
   display: flex;
   align-items: center;
   gap: 40px;
   position: relative;
   color: #404bbf;
 }
-
+.header-menu-list::after {
+  content: '';
+  width: 100%;
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  height: 4px;
+  background-color: #404bbf;
+  border-radius: 2px;
+}
 .header-nav-link {
   /* letter-spacing: 0.02em; */
   color: var(--text-color);
