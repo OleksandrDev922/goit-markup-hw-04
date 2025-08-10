@@ -110,7 +110,6 @@ ol {
   gap: 76px;
   position: relative;
   align-items: center;
-  color: #404bbf;
 }
 
 .header-logo {
@@ -122,8 +121,6 @@ ol {
   letter-spacing: 0.03em;
   color: var(--logo-color-web);
   margin-right: 76px;
-  position: relative;
-  color: #404bbf;
 }
 
 .header-logo-tex {
@@ -145,6 +142,8 @@ ol {
   height: 24;
   width: 48;
   padding: 24px 0;
+  position: relative;
+  color: #404bbf;
 }
 .header-nav-link:hover,
 .header-nav-link:focus {
