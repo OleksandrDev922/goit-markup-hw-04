@@ -281,7 +281,7 @@ ol {
 }
 .social-list {
   display: flex;
-  gap: 16px;
+  gap: 24px;
   justify-content: center;
 }
 .social-item {
