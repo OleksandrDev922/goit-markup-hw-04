@@ -305,6 +305,11 @@ ol {
   background-color: #404bbf;
   outline: none;
 }
+.social-list-pot {
+  display: flex;
+  gap: 24px;
+  justify-content: center;
+}
 
 .instagram {
   background-color: #4d5ae5;
