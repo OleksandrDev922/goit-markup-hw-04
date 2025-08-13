@@ -279,11 +279,7 @@ ol {
 .visually-hidden {
   letter-spacing: 0.02em;
 }
-.social-list {
-  display: flex;
-  gap: 24px;
-  justify-content: center;
-}
+
 .social-item {
   display: flex;
   align-items: center;
@@ -493,7 +489,11 @@ ol {
   color: #ffffff;
   margin-bottom: 16px;
 }
-
+.social-list {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+}
 .social-item {
   background-color: #4d5ae5;
   width: 40px;
