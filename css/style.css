@@ -369,7 +369,7 @@ ol {
   justify-content: center;
   gap: 8px;
   flex-direction: column;
-  padding: 32px 16px;
+  padding: 32px 0;
 }
 
 .portfolio-item:hover,
