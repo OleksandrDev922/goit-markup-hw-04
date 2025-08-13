@@ -282,7 +282,6 @@ ol {
   display: flex;
   gap: 16px;
   justify-content: center;
-  margin-bottom: 24px;
 }
 .social-item {
   display: flex;
@@ -312,7 +311,7 @@ ol {
   letter-spacing: 0.02em;
   color: var(--text-color);
   display: flex;
-  margin-bottom: 8px;
+  /* margin-bottom: 8px; */
 }
 .portfolio-title,
 .team-title {
@@ -365,9 +364,11 @@ ol {
 
 .team-blok {
   display: flex;
+  align-items: center;
+  justify-content: center;
   gap: 8px;
   flex-direction: column;
-  padding: 32px 0;
+  padding: 32px 16px;
 }
 
 .portfolio-item:hover,
@@ -509,6 +510,7 @@ ol {
 .social-link-fot:hover,
 .social-link-fot:focus {
   background-color: #31d0aa;
+  width: 100%;
 }
 .menu-btn {
   font-family: 'Roboto', sans-serif;
