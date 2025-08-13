@@ -284,7 +284,7 @@ ol {
   justify-content: center;
   margin-bottom: 24px;
 }
-.social-link {
+.social-item {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -294,7 +294,11 @@ ol {
   background-color: var(--logo-color-web);
   fill: #ffffff;
 }
-
+.social-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 .instagram {
   background-color: #4d5ae5;
   border-radius: 50%;
