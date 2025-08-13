@@ -498,9 +498,9 @@ ol {
   background-color: #4d5ae5;
   width: 40px;
   height: 40px;
-  gap: 16px;
-  border-radius: 50px;
 
+  border-radius: 50px;
+  gap: 16px;
   justify-content: center;
   border-radius: 50%;
   box-shadow: 0px 4px 4px #00000026;
