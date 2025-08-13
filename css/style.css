@@ -307,6 +307,7 @@ ol {
 .social-link:hover,
 .social-link:focus {
   background-color: #404bbf;
+  outline: none;
 }
 
 .instagram {
