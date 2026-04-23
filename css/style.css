@@ -326,7 +326,7 @@ ol {
   display: flex;
   /* margin-bottom: 8px; */
 }
-.portfolio-title,
+’ .portfolio-title,
 .team-title {
   text-align: center;
   font-weight: 700;
